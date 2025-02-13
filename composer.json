@@ -1,0 +1,19 @@
+{
+  "name": "simple/datatable",
+  "description": "Testing dataTables features with libraries",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Database379@hotmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "pecee/simple-router": "^5.4"
+  }
+}
