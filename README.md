@@ -85,4 +85,4 @@ For any questions or issues, feel free to:
 
 This project is for educational purposes and is open-source. Feel free to modify and use it in your local projects!
 
-<img src="Public/Assets/image.png" alt="Dark DataTables Preview" width="300" height="300">
+<img src="Public/Assets/image.png" alt="Dark DataTables Preview" width="500" height="500">
