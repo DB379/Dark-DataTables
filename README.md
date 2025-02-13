@@ -84,3 +84,5 @@ For any questions or issues, feel free to:
 ## License
 
 This project is for educational purposes and is open-source. Feel free to modify and use it in your local projects!
+
+<img src="public/assets/image.png" alt="Dark DataTables Preview" width="300" height="300">
