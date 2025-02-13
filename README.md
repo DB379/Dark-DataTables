@@ -1,28 +1,28 @@
 Dark DataTables with PHP
 
-Overview
+\*\*\*\* /Overview
 
 This project implements a dark-themed DataTables interface using PHP, providing server-side processing for DataTables with features such as:
 
 Search, Sorting, Pagination, Column toggling
 
-Sleek, dark UI
+Sleek, simple dark UI
 
 This project is designed for learning purposes and local projects.
 
-Prerequisites
+\*\*\*\* /Prerequisites
 
 Ensure you have the following installed:
 
-PHP 7.4 or higher
+1. PHP 7.4 or higher
 
-Composer
+2. Composer
 
-MySQL or MariaDB
+3. MySQL or MariaDB
 
-Web server (Apache or Nginx recommended)
+4. Web server (Apache or Nginx recommended)
 
-Installation
+\*\*\*\* /Installation
 
 1. Install Composer (if not already installed)
 
@@ -58,15 +58,11 @@ DB_USER=your_username
 DB_PASSWORD=your_password
 DB_CHARSET=utf8mb4
 
-5. Run the Project
+5. To create MySQL database go to MySQL and use sql file to create database and table. You can change this later if u wish.
+
+6. Run the Project
 
 Ensure your web server and database are running, then access the project through your browser.
-
-Usage
-
-Open the project in your browser.
-
-Use the DataTables interface to search, sort, and filter data dynamically.
 
 Enjoy the dark-themed UI!
 
@@ -76,7 +72,7 @@ For any questions or issues, feel free to:
 
 Open an issue in the repository.
 
-Contact me directly.
+Contact me directly on Discord: DataBase379
 
 License
 
