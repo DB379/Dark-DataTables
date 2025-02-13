@@ -4,13 +4,7 @@ Overview
 
 This project implements a dark-themed DataTables interface using PHP, providing server-side processing for DataTables with features such as:
 
-Search
-
-Sorting
-
-Pagination
-
-Column toggling
+Search, Sorting, Pagination, Column toggling
 
 Sleek, dark UI
 
@@ -36,12 +30,7 @@ If you haven't installed Composer, follow the instructions on Composer's officia
 
 2. Clone or Download the Repository
 
-# Clone the repository
-
 git clone https://github.com/your-username/dark-datatables-php.git
-
-# Navigate into the project directory
-
 cd dark-datatables-php
 
 3. Install Dependencies
@@ -75,9 +64,9 @@ Ensure your web server and database are running, then access the project through
 
 Usage
 
-Open the project in your browser
+Open the project in your browser.
 
-Use the DataTables interface to search, sort, and filter data dynamically
+Use the DataTables interface to search, sort, and filter data dynamically.
 
 Enjoy the dark-themed UI!
 
@@ -85,9 +74,9 @@ Contact & Support
 
 For any questions or issues, feel free to:
 
-Open an issue in the repository
+Open an issue in the repository.
 
-Contact me directly
+Contact me directly.
 
 License
 
