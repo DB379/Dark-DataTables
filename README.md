@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Contact & Support](#contact--support)
 - [License](#license)
+- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -84,5 +85,7 @@ For any questions or issues, feel free to:
 ## License
 
 This project is for educational purposes and is open-source. Feel free to modify and use it in your local projects!
+
+## Screenshot
 
 <img src="Public/Assets/image.png" alt="Dark DataTables Preview" width="500" height="500">
