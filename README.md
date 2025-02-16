@@ -11,10 +11,7 @@
 
 ## Overview
 
-This project implements a dark-themed DataTables interface using PHP, providing server-side processing for DataTables with features such as:
-
-- Search, Sorting, Pagination, Column toggling
-- Sleek, simple dark UI
+This project implements a dark-themed DataTables interface using PHP, utilizing the Simple PHP Router for routing. It provides server-side processing for DataTables with features such as pagination, search, and sorting, ensuring efficient data handling for large datasets.
 
 This project is designed for learning purposes and local projects.
 
