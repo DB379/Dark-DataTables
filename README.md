@@ -32,7 +32,7 @@ Ensure you have the following installed:
 2. **Clone or Download the Repository**
 
    ```bash
-   git clone https://github.com/your-username/dark-datatables-php.git
+   git clone https://github.com/DB379/Dark-DataTables.git
    cd dark-datatables-php
    ```
 
